@@ -1,0 +1,27 @@
+body {
+	background: url("../images/pawprints1.jpg") white;
+	background-size: 100%;
+    color: black;
+}
+
+/*img { 
+    height: 150px;
+    width: 150px;
+}*/
+
+.btn {
+    background-color: #999999;
+    border-color: white;
+    margin: 3px;
+}
+
+.gifDiv {
+    float: left;
+    margin: 5px;
+}
+
+.container {
+	background-color: white;
+	opacity: .9;
+	padding: 20px;
+}
